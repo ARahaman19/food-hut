@@ -1,0 +1,20 @@
+.intro_page {
+    margin: 0 5%;
+    display: flex;
+}
+
+.intro_page_half img {
+    width: 80%;
+}
+
+span {
+    color: coral;
+}
+
+.intro_page_half a {
+    background-image: linear-gradient(red, tomato);
+    border-radius: 10px;
+    text-decoration: none;
+    color: aliceblue;
+    padding: 7px;
+}
