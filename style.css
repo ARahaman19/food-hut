@@ -6,7 +6,7 @@ body {
 .intro_page {
 
     display: flex;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
 }
 
 .intro_page_half {
@@ -16,13 +16,14 @@ body {
 }
 
 .intro_page_half img {
-    width: 50%;
+    width: 60%;
 
 
 }
 
 span {
     color: coral;
+    padding: 10px;
 }
 
 a {
@@ -30,7 +31,8 @@ a {
     border-radius: 10px;
     text-decoration: none;
     color: aliceblue;
-    padding: 7px;
+    padding: 10px;
+
 }
 
 .about_sec {
@@ -67,7 +69,7 @@ a {
 
 .MYRECIPE {
     text-align: center;
-    margin: 0 30%;
+    margin: 5% 30%;
 }
 
 .recipee_item {
@@ -108,4 +110,17 @@ a {
 .followers div {
     width: 30%;
     text-align: center;
+}
+
+footer {
+    background-color: black;
+    text-align: center;
+    color: aliceblue;
+    height: 150PX;
+    padding: 20PX;
+
+}
+
+h1 {
+    font-size: 35px;
 }
