@@ -35,10 +35,11 @@ a {
 
 .about_sec {
     display: flex;
-    background-image: url(images/shapes/7.png);
+    background-image: url(images/shapes/Frame\ 57.jpg);
     background-repeat: no-repeat;
     margin-bottom: 5%;
     height: 100%;
+
 
 
 }
@@ -67,4 +68,44 @@ a {
 .MYRECIPE {
     text-align: center;
     margin: 0 30%;
+}
+
+.recipee_item {
+    display: flex;
+    margin-left: 5%;
+    margin-right: 5%;
+
+}
+
+.item_box {
+
+    text-align: justify;
+    width: 30%;
+    box-shadow: 10px 10px 40px silver;
+    padding: 10px;
+    border-radius: 15px;
+
+
+}
+
+.item_box img {
+    width: 100%;
+}
+
+.item {
+    margin-left: 5%;
+}
+
+.followers {
+
+    display: flex;
+    margin: 5% 5%;
+    box-shadow: 10px 10px 40px silver;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+.followers div {
+    width: 30%;
+    text-align: center;
 }
